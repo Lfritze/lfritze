@@ -8,7 +8,7 @@
 
 Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
 
-## Here are some current works in progress!
+## Here are some projects I am currently working on!
 ### [Fritze Cards](https://fritze-cards.herokuapp.com/)
 ### [Repository](https://github.com/Lfritze/jayrow)
 MERN stack - Ecommerce site integrated with PayPal to sell my collection of baseball cards. This is for demonstation purpusose only - not intended to actually sell cards.
