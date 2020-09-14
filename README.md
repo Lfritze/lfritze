@@ -21,7 +21,7 @@ React JavaScript Application - cellular automaton with specific rules for cell e
 
 ### [Github User Cards](https://react-github-user-card-eta.now.sh/)
 ### [Repository](https://github.com/Lfritze/React-Github-User-Card)
-React application that returns Github profile summary chart, and followers with search functionality. 
+React application that returns Github profile summary chart and followers with search functionality. 
 
   
 ## **⭐️[Leighton-Fritze](https://github.com/Lfritze)**
