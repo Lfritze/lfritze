@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Leighton 👋
 
-<!--
-**Lfritze/lfritze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Leighton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leightonfritze/)](https://www.linkedin.com/in/leightonfritze/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://leightonfritze.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Leighton-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:LLFritze@gmail.com)](mailto:LLFritze@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
+  **⭐️[Leighton-Fritze](https://github.com/Lfritze)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+
+
+  <img src="hi.jpg" alt="Daniel Johnston Art" width="100%">
+
+
+
+
+</div>
+
