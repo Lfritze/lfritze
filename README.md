@@ -3,7 +3,7 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://leightonfritze.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Leighton-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:LLFritze@gmail.com)](mailto:LLFritze@gmail.com)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="100%">
+  <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="60%">
 </div>
 
 Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
