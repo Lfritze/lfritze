@@ -20,4 +20,5 @@ Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks fo
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="100%">
 </div>
+Artwork: Danile Johnston
 
