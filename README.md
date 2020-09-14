@@ -9,13 +9,6 @@ Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks fo
 
 
 <div align="center">
-
-
-
-  <img src="hi.jpg" alt="Daniel Johnston Art" width="100%">
-
-
-
-
+  <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="100%">
 </div>
 
