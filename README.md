@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="60%">
 </div>
 
-Welcome to my Github profile! I am looking for a fulltime opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
+Welcome to my Github profile! I am looking for a full time opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
 
 ## Here are some projects I am currently working on!
 ### [Fritze Cards](https://fritze-cards.herokuapp.com/)
