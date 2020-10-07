@@ -11,7 +11,7 @@ Welcome to my Github profile! I am looking for a full time opportunity! Thanks f
 ## Here are some projects I am currently working on!
 ### [Fritze Cards](https://fritze-cards.herokuapp.com/)
 ### [Repository](https://github.com/Lfritze/jayrow)
-MERN stack - Ecommerce site integrated with PayPal to sell my collection of baseball cards. This is for demonstation purpusose only - not intended to actually sell cards.
+MERN stack - Ecommerce site integrated with PayPal to sell my collection of baseball cards. This is for demonstration purposes only - not intended to actually sell cards.
 ### [My Personal Website](https://leightonfritze.com/)
 ### [Repository](https://github.com/Lfritze/Web-Project)
 My personal website built in React with a custom resume and portfolio of projects.
