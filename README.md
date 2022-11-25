@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/Lfritze/Lfritze/master/hi.jpg" alt="Album cover by Daniel Johnston" width="60%">
 </div>
 
-Welcome to my Github profile! I am looking for a full time opportunity! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/leightonfritze/)!
+Thanks for visiting and and feel free to [connect](https://www.linkedin.com/in/leightonfritze/)!
 
-## Here are some projects I am currently working on!
+## Here are some past projects!
 ### [Fritze Cards](https://fritze-cards.herokuapp.com/)
 ### [Repository](https://github.com/Lfritze/jayrow)
 MERN stack - Ecommerce site integrated with PayPal to sell my collection of baseball cards. This is for demonstration purposes only - not intended to actually sell cards.
